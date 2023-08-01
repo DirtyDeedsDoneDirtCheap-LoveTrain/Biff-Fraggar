@@ -1,6 +1,6 @@
 # .github/workflows/sync.yml
 
-name: Merge upstream branches
+name: "Merge upstream branches"
 on:
   schedule:
      # actually, ~5 minutes is the highest
